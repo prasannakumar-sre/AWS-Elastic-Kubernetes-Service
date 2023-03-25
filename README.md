@@ -4,7 +4,7 @@ Users can use AWS EKS to run their containerized applications in a scalable and 
 To use AWS EKS, users need to create an Amazon EKS cluster, which includes the Kubernetes control plane and worker nodes. They can then deploy their applications using Kubernetes manifests or Helm charts. Users can also use tools such as kubectl or the AWS Management Console to manage their Kubernetes cluster and applications.
 AWS EKS provides users with features such as automatic scaling, cluster upgrades, and security features such as encryption and identity and access management (IAM) integration. It also integrates with other AWS services to provide users with additional functionality, such as logging and monitoring.
 
-========================================================================================================
+=========================================================================================================
 
 
 ##  AWS EKS Content 
