@@ -1,4 +1,4 @@
 # Docker Fundamentals
 - For Docker Fundamentals github repository, please click on below link
-- https://github.com/stacksimplify/docker-fundamentals
+- https://docs.docker.com/get-started/overview/
 
